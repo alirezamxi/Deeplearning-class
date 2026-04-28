@@ -1,4 +1,4 @@
-# Deep Learning Project Proposal: Facial Emotion Recognition with KAN
+# Deep Learning Project : Facial Emotion Recognition with KAN
 
 ## Introduction
 This project focuses on enhancing facial emotion recognition through a novel deep learning approach. We aim to leverage the Kolmogorov-Arnold Network (KAN) to improve the accuracy and interpretability of emotion classification.
