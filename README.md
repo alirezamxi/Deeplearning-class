@@ -19,6 +19,8 @@ Performance will be assessed using standard metrics:
 ## Results
 
 **Final Test Accuracy:** 69.21%
+### baseline
+https://github.com/GSNCodes/Emotion-Detection-FER2013/blob/master/Emotion_Recognition_Train.ipynb
 
 ### Detailed Classification Report:
 ```
